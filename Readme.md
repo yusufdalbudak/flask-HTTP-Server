@@ -1,4 +1,5 @@
 # PRTG Webhook Dashboard
+![image-854](https://github.com/user-attachments/assets/99d714ae-7f6a-47ec-bf11-b1766ec10513)
 
 ## Proje Açıklaması
 Bu proje, **PRTG Network Monitor** ile entegre çalışan bir **Flask tabanlı Webhook Dashboard** uygulamasıdır. PRTG sensörleri "Down" olduğunda **Notification Trigger** tetiklenir ve **HTTP Action**, Flask sunucusuna **POST isteği** gönderir. Flask sunucusu gelen veriyi işler, loglar ve bir **dashboard** üzerinden kullanıcıya sunar.
@@ -78,4 +79,5 @@ Proje geliştirmeye açıktır. **Pull Request** gönderebilir veya yeni özelli
 
 ## Lisans
 Bu proje **MIT** lisansı ile lisanslanmıştır.
+
 
